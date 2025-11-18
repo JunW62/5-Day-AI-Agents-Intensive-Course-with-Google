@@ -2,6 +2,8 @@
 
 > **42万+开发者参与的 AI Agent 课程** | 感谢 [sdivyanshu90](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google) 和 Google 提供的免费课程资源
 
+5 天直播回放视频：[youtube](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
+
 ## 快速开始
 
 ### 前置要求
