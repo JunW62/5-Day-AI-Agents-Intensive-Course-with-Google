@@ -62,7 +62,7 @@ cp .env.example .env
 ---
 
 ### Day 3: 上下文工程：会话与记忆
-**主题**: 上下文窗口管理、会话（即时历史）、记忆（长期持久化）
+**主题**: 上下文窗口管理、会话、记忆（长期持久化）
 
 - 📄 [白皮书: Context Engineering: Sessions & Memory](https://www.kaggle.com/whitepaper-agents-memory)
 - 🎙️ [播客: Unit 3 Summary](https://www.kaggle.com/whitepaper-agents-memory-podcast)
