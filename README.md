@@ -4,6 +4,8 @@
 
 5 天直播回放视频：[youtube](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
 
+谷歌新课程：[25天Agents课程-圣诞节礼物](https://mp.weixin.qq.com/s/H4C65Vvh58G3g8AZ1vl1lA)
+
 ## 快速开始
 
 ### 前置要求
